@@ -1,0 +1,9 @@
+{
+"model_function": "openai_embedd",
+"args": [
+"Knowledgebase/OPENAI/RAWDATA/HochschuleAnhalt.csv",
+"OpenAI_API_Key",
+"text-embedding-ada-002",
+"Knowledgebase/OPENAI/EMBEDDINGS/embeddings.csv"
+]
+}

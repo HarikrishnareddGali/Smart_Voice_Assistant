@@ -1,0 +1,10 @@
+{
+"model_function": "openai_chat",
+"args": [
+"OpenAI_API_Key",
+"text-davinci-003",
+500,
+2,
+"Knowledgebase/OPENAI/EMBEDDINGS/embeddings.csv"
+]
+}
